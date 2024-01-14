@@ -8,6 +8,7 @@
 	<h2 style="color: blue; font-size: 40px;" align="center">WELCOME TO MY FIRST WEBSITE HOSING CLASS</h2>
 	<h2 style="color: green; font-size: 40px;" align="center">THIS IS OUR DEPLOYMENT</h2>
 	<h2 style="color: green; font-size: 40px;" align="center">EXPLORE THE FEATURES</h2>
+	<h2 style="color: pink; font-size: 30px;" align="center">IMPLEMENTED WEBHOOK AUTOMATED DEPLOYMENTS</h2>
 	
 	
 	
