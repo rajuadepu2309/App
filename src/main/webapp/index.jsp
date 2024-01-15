@@ -11,7 +11,7 @@
 	<h2 style="color: pink; font-size: 30px;" align="center">IMPLEMENTED WEBHOOK AUTOMATED DEPLOYMENTS</h2>
 	<h2 style="color: green; font-size: 40px;" align="center">HAPPY LEARNING</h2>
 	<p style="color: red; font-size:40px;" align="left">This is my first website hosting, here iam used jenkins software and used maven for build, test my code periodically. 
-	\n To host my website to internet here iam used tomcat web host.</p>
+	 To host my website to internet here iam used tomcat web host.</p>
 	
 	
 	
